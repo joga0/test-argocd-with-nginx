@@ -1,0 +1,4 @@
+apiVersion: v2
+name: nginx-simple
+description: A very simple nginx Helm chart
+version: 0.1.0
