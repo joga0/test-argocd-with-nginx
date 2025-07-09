@@ -1,4 +1,4 @@
 image:
   repository: jogatest.azurecr.io/nginx
   tag: latest
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
